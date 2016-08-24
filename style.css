@@ -1,0 +1,27 @@
+body {
+border: outset;
+margin-left: 3%;
+margin-right: 3%;
+}
+.body{
+	margin: 10% 10% 10% 10%;
+}
+.ende{
+	position: relative;
+	margin-left: 50%;
+	font-size: 12px;
+	line-height: 0;
+}/* line-height coloca um espaçamento entre as linhas*/
+h1{
+	border-bottom: 2px solid black;
+	line-height: 3;
+}
+.esquerda{
+	position: absolute;
+	margin: 5px 300px 5px 5px;
+}
+.conteudo{
+	position: absolute;
+	margin: 5px 5px 5px 300px;
+	color: red;
+}
